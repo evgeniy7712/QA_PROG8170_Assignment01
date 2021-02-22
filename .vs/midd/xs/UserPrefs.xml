@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{43E8FD50-A736-473E-B8FD-1B65888E4EBC}|Default">
+  <MonoDevelop.Ide.ItemProperties.midd PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="midd/Rectangle.cs">
+    <Files>
+      <File FileName="midd/Program.cs" Line="13" Column="1" />
+      <File FileName="midd/Rectangle.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="midd" expanded="True">
+            <Node name="midd" expanded="True">
+              <Node name="Rectangle.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

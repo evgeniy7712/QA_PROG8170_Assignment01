@@ -1,0 +1,6 @@
+/Users/zinovkinevgenij/Projects/midd/midd/bin/Debug/midd.exe
+/Users/zinovkinevgenij/Projects/midd/midd/bin/Debug/midd.pdb
+/Users/zinovkinevgenij/Projects/midd/midd/obj/Debug/midd.csprojAssemblyReference.cache
+/Users/zinovkinevgenij/Projects/midd/midd/obj/Debug/midd.csproj.CoreCompileInputs.cache
+/Users/zinovkinevgenij/Projects/midd/midd/obj/Debug/midd.exe
+/Users/zinovkinevgenij/Projects/midd/midd/obj/Debug/midd.pdb
